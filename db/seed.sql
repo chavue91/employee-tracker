@@ -2,7 +2,7 @@ INSERT INTO department
     
 VALUES
 
-INSERT INTO roles
+INSERT INTO role
 
 VALUES
 
